@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "102223956032",
+    "firebase_url": "https://projectpegasusayuda.firebaseio.com",
+    "project_id": "projectpegasusayuda",
+    "storage_bucket": "projectpegasusayuda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102223956032:android:44b3904d582c6b49",
+        "android_client_info": {
+          "package_name": "com.fuegosoft.ayuda.services.fuegosoft_ayuda_services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102223956032-u0600r9gbeuler1onec81duhbh7so882.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fuegosoft.ayuda.services.fuegosoft_ayuda_services",
+            "certificate_hash": "b8381bd43ed7bde15834bc44d72d9368f55380dc"
+          }
+        },
+        {
+          "client_id": "102223956032-mj9ft3omhh1f3gp3fpeikvba5pqhjg51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBphapLyVvbEq17qPHKb5AyN5Jbdbf4iZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102223956032-mj9ft3omhh1f3gp3fpeikvba5pqhjg51.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "102223956032-ld9s03cd73kq7h025ir94ij40m73uflu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fuegosoft.ayuda.services.fuegosoftAyudaServices"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
